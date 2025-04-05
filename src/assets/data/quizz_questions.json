@@ -1,0 +1,68 @@
+{
+    "title": "Qual faixa de Jiu-Jitsu combina com você?",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Como você reage diante de um desafio?",
+        "options": [
+          { "id": 1, "name": "Entro com tudo, mesmo sem saber muito!", "alias": "D" },
+          { "id": 2, "name": "Parto pra cima com confiança!", "alias": "A" },
+          { "id": 3, "name": "Analiso, respiro e ajo com calma", "alias": "B" },
+          { "id": 4, "name": "Tento aprender com a situação antes de agir", "alias": "C" },
+          { "id": 5, "name": "Uso a experiência que tenho pra resolver", "alias": "E" }
+        ]
+      },
+      {
+        "id": 2,
+        "question": "Qual é sua maior qualidade no tatame?",
+        "options": [
+          { "id": 1, "name": "Determinação, mesmo sem técnica ainda", "alias": "D" },
+          { "id": 2, "name": "Força e resistência", "alias": "A" },
+          { "id": 3, "name": "Técnica e precisão", "alias": "B" },
+          { "id": 4, "name": "Disciplina e paciência", "alias": "C" },
+          { "id": 5, "name": "Controle emocional e foco", "alias": "E" }
+        ]
+      },
+      {
+        "id": 3,
+        "question": "Como você lida com as derrotas?",
+        "options": [
+          { "id": 1, "name": "Ainda me frustro fácil, mas tento seguir", "alias": "D" },
+          { "id": 2, "name": "Fico bolado, mas volto mais forte", "alias": "A" },
+          { "id": 3, "name": "Aceito como parte do aprendizado", "alias": "B" },
+          { "id": 4, "name": "Reflito e uso como motivação para evoluir", "alias": "C" },
+          { "id": 5, "name": "Faço disso combustível para ensinar e crescer", "alias": "E" }
+        ]
+      },
+      {
+        "id": 4,
+        "question": "Como você se vê no futuro no Jiu-Jitsu?",
+        "options": [
+          { "id": 1, "name": "Quero continuar treinando e aprendendo o básico", "alias": "D" },
+          { "id": 2, "name": "Competindo e subindo no pódio", "alias": "A" },
+          { "id": 3, "name": "Sempre treinando, sem ego, só evolução", "alias": "B" },
+          { "id": 4, "name": "Sendo exemplo e mentor pros mais novos", "alias": "E" },
+          { "id": 5, "name": "Vivendo o jiu-jitsu como um estilo de vida", "alias": "C" }
+        ]
+      },
+      {
+        "id": 5,
+        "question": "O que mais te atrai na arte suave?",
+        "options": [
+          { "id": 1, "name": "A vontade de aprender algo novo", "alias": "D" },
+          { "id": 2, "name": "O combate, o contato físico", "alias": "A" },
+          { "id": 3, "name": "A estratégia e o jogo mental", "alias": "B" },
+          { "id": 4, "name": "A filosofia e a humildade", "alias": "C" },
+          { "id": 5, "name": "A liderança e o legado", "alias": "E" }
+        ]
+      }
+    ],
+    "results": {
+      "D": "Você é faixa branca! 🤍 Está começando a jornada, cheio de vontade e curiosidade. Cada treino é um passo na evolução!",
+      "A": "Você é faixa azul! 💙 Está no gás, com força e garra, enfrentando tudo com vontade. Ainda há muito a evoluir, mas seu espírito é de guerreiro!",
+      "B": "Você é faixa roxa! 💜 Já tem técnica refinada, visão estratégica e sabe que jiu-jitsu é muito mais do que força.",
+      "E": "Você é faixa marrom! 🤎 Está maduro na arte, com bastante experiência e começa a inspirar quem está por vir.",
+      "C": "Você é faixa preta! 🖤 Calmo, sábio, disciplinado. Você entende a arte suave como um estilo de vida, e não apenas como luta."
+    }
+  }
+  
