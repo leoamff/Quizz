@@ -41,7 +41,15 @@ Você pode alterar as perguntas acessando o arquivo:
 ```bash
 src/assets/data/quizz_questions.json
 ```
-Mude as perguntas e respostas conforme quiser, mantendo o mesmo formato.
+
+## Mude as perguntas e respostas conforme quiser, mantendo o mesmo formato.
+
+### 📸 Demonstração
+![image](https://github.com/user-attachments/assets/e587be21-cb35-4a86-8cd2-3772aa947685)
+
+
+## 👨‍🏫 Créditos
+Este projeto foi inspirado no repositório original de felipeAguiarCode e desenvolvido com base nas aulas da plataforma DIO.
 
 ## 🤝 Contribuições
 
