@@ -13,9 +13,9 @@ Você já se perguntou se está na faixa certa no Jiu-Jitsu? Ou se sua alma é d
   
 - **TypeScript**: Linguagem base do Angular. Adiciona tipagem estática ao JavaScript, melhorando a organização e manutenção do código.
   
-- **CSS**: Usado para estruturar a interface de cada componente (telas do quiz, botão iniciar, perguntas, respostas, etc).
+- **HTML**: Usado para estruturar a interface de cada componente (telas do quiz, botão iniciar, perguntas, respostas, etc).
   
-- **HTML**: Responsável pela estilização dos componentes e layout da aplicação. Define cores, fontes, espaçamentos e responsividade.
+- **CSS**: Responsável pela estilização dos componentes e layout da aplicação. Define cores, fontes, espaçamentos e responsividade.
   
 - **JSON**: Usado para armazenar as perguntas e respostas do quiz. Essa abordagem facilita a leitura e manutenção dos dados e separa a lógica da interface.
 
