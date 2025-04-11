@@ -9,10 +9,15 @@ Você já se perguntou se está na faixa certa no Jiu-Jitsu? Ou se sua alma é d
 
 ## 🚀 Tecnologias Utilizadas
 
-- **Angular**: Framework principal da aplicação
-- **TypeScript**: Linguagem usada no desenvolvimento
-- **CSS**: Estilização dos componentes
-- **JSON**: Armazenamento das perguntas e respostas
+- **Angular**: Framework principal da aplicação. Utilizado para criar a estrutura SPA (Single Page Application), com componentes reutilizáveis e navegação fluida entre páginas.
+  
+- **TypeScript**: Linguagem base do Angular. Adiciona tipagem estática ao JavaScript, melhorando a organização e manutenção do código.
+  
+- **CSS**: Usado para estruturar a interface de cada componente (telas do quiz, botão iniciar, perguntas, respostas, etc).
+  
+- **HTML**: Responsável pela estilização dos componentes e layout da aplicação. Define cores, fontes, espaçamentos e responsividade.
+  
+- **JSON**: Usado para armazenar as perguntas e respostas do quiz. Essa abordagem facilita a leitura e manutenção dos dados e separa a lógica da interface.
 
 ## 📁 Estrutura do Projeto
 
